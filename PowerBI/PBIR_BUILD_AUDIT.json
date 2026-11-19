@@ -1,0 +1,21 @@
+{
+  "report_pages": 6,
+  "page_ids": [
+    "0e1c95438151436e20e6",
+    "f5feee0a98af0a651794",
+    "acc646db6ca0b617c037",
+    "76232ed4443f2259419c",
+    "7bf87f0e5b5f0f0e1fbc",
+    "aaf18f0f924d3e53e896"
+  ],
+  "visuals_per_page": {
+    "0e1c95438151436e20e6": 18,
+    "f5feee0a98af0a651794": 19,
+    "acc646db6ca0b617c037": 16,
+    "76232ed4443f2259419c": 17,
+    "7bf87f0e5b5f0f0e1fbc": 17,
+    "aaf18f0f924d3e53e896": 17
+  },
+  "semantic_model_modified": false,
+  "theme": "AbyssalFisheriesTheme-20261107.json"
+}
